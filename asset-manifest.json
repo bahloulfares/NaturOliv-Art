@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/naturoliv-art/static/css/main.b42399b3.css",
-    "main.js": "/naturoliv-art/static/js/main.b134a198.js",
-    "index.html": "/naturoliv-art/index.html",
-    "main.b42399b3.css.map": "/naturoliv-art/static/css/main.b42399b3.css.map",
-    "main.b134a198.js.map": "/naturoliv-art/static/js/main.b134a198.js.map"
+    "main.css": "/NaturOliv-Art/static/css/main.b42399b3.css",
+    "main.js": "/NaturOliv-Art/static/js/main.b134a198.js",
+    "index.html": "/NaturOliv-Art/index.html",
+    "main.b42399b3.css.map": "/NaturOliv-Art/static/css/main.b42399b3.css.map",
+    "main.b134a198.js.map": "/NaturOliv-Art/static/js/main.b134a198.js.map"
   },
   "entrypoints": [
     "static/css/main.b42399b3.css",
