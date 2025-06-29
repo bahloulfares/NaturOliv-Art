@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/naturoliv-art/static/css/main.b42399b3.css",
+    "main.js": "/naturoliv-art/static/js/main.b134a198.js",
+    "index.html": "/naturoliv-art/index.html",
+    "main.b42399b3.css.map": "/naturoliv-art/static/css/main.b42399b3.css.map",
+    "main.b134a198.js.map": "/naturoliv-art/static/js/main.b134a198.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42399b3.css",
+    "static/js/main.b134a198.js"
+  ]
+}
